@@ -124,7 +124,9 @@ const Token = () => {
                 />
               </motion.a>
               <motion.a
-                href="/"
+                href="https://www.dextools.io/app/en/bnb/pair-explorer/0x8355150e8c12f6809df4c4e4b86e906c1be95b27?t=1756537678664"
+                target="_blank"
+                rel="noreferrer"
                 whileHover={{ scale: 1.1, rotate: -5 }}
                 whileTap={{ scale: 0.9 }}
                 transition={{ duration: 0.2 }}
