@@ -67,7 +67,8 @@ const Hero = () => {
               className="flex items-center gap-4"
             >
               <motion.a
-                href="/"
+                href="https://x.com/Pony_BSC"
+                      target="_blank"
                 whileHover={{ scale: 1.2, rotate: 10 }}
                 whileTap={{ scale: 0.9 }}
                 transition={{ duration: 0.2 }}
@@ -78,7 +79,8 @@ const Hero = () => {
                 />
               </motion.a>
               <motion.a
-                href="/"
+                href="https://t.me/Pony_BSC"
+                target="_blank"
                 whileHover={{ scale: 1.2, rotate: -10 }}
                 whileTap={{ scale: 0.9 }}
                 transition={{ duration: 0.2 }}
