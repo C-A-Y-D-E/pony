@@ -24,7 +24,7 @@ const About = () => {
               className="font-light text-lg lg:text-2xl xl:text-3xl max-xl:max-w-[600px] max-w-[800px]"
             >
               Other tokens are serious. We're seriously fun. Powered by BNB
-              Chain, fueled by laughter, and sprinkled with confetti — PinkiePie
+              Chain, fueled by laughter, and sprinkled with confetti — PONY
               Token isn't just a coin, it's a party you hold in your wallet.
             </motion.p>
             <motion.div
